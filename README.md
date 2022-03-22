@@ -44,8 +44,8 @@ Any useful information needed for additional employee classes are welcome to thi
 
 In case you have any questions about the project then contact me:
 
--Author: Pawanpreet Kaur,
--Github: [PawanpreetKaur](https://github.com/pawan495),
+-Author: Pawanpreet Kaur
+-Github: [PawanpreetKaur](https://github.com/pawan495)
 -Email: pawanpreetkaur495@gmail.com
 
 ## License
