@@ -17,7 +17,7 @@ Keeping up with constant changes in the evolving world of technology and applica
 
 ## Installation Instructions
 
-![lick here to see video](https://drive.google.com/file/d/14IPDxBwFMPh4efvldp9f76tD_qHUa1VT/view```)
+![Click here to see video](https://drive.google.com/file/d/14IPDxBwFMPh4efvldp9f76tD_qHUa1VT/view:)
 You have to installed Node.js on your system. Visit their[website](https://nodejs.org/en/) to download and install.
 
 Clone this repository code in your terminal and navigate to the application's directory, then used the command:
